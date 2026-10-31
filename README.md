@@ -39,6 +39,10 @@ scout-bot/
 - 🛑 Opt-outs are respected forever.
 - 📭 No emails are harvested from commits or profiles; project Issues or Discussions come first.
 
+## 📨 Outreach log
+
+📂 [`outreach-log/`](outreach-log/): who the Titan pitches were sent to and when, the rules, and open tasks (written in Russian). A new assistant should start with [`outreach-log/README.md`](outreach-log/README.md).
+
 ## 📌 Status
 
 🚧 **In development** — design stage, implementation not started.
