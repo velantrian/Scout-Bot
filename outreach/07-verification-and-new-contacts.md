@@ -72,7 +72,7 @@ Totals (ministries, 16): ✅ 8 verified · ⚠️ 1 pattern-only · ❌ 1 not fo
 
 Resending requires a new explicit approval from Ruslan.
 
-## 6. Draft emails (EN) for 04 organisations — NOT SENT, for approval
+## 6. Emails (EN) for 04 organisations — ✅ SENT 31.10.2026 17:27–17:28 Berlin by Ruslan (Send pressed himself; signature "Velan, Hamburg"); see SENT_LOG.md R6-1…R6-7
 
 Common body (greeting + hook vary per org, see below):
 

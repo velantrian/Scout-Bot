@@ -170,3 +170,21 @@
 | 16 | Investor.ge (AmCham) | `mackenzie@amcham.ge` | адрес не подтверждён |
 | 27 | Kaktus Media | `info@kaktus.work` | адрес не подтверждён |
 | 28 | Tazabek | `mtazabek@gmail.com` | адрес не подтверждён |
+
+## 📤 Раунд 6, группа «организации из 04» (31.10.2026, Send нажал Руслан)
+
+Подпись: «Velan, Hamburg». Время по Берлину (CET). Проверено в «Отправленных»; немедленных отказов нет (проверка ~17:30).
+
+| № | Дата/время | Организация | Адрес | Тема | Статус |
+|---|---|---|---|---|---|
+| R6-1 | 31.10.2026 17:27 | Wellcome Trust | `message@wellcome.org` | Research question: traceable memory for AI agents in health | 📤 отправлено |
+| R6-2 | 31.10.2026 17:27 | Nesta | `information@nesta.org.uk` | Research question: traceable AI-agent memory for public-good AI | 📤 отправлено |
+| R6-3 | 31.10.2026 17:27 | Wadhwani AI | `partnerships@wadhwaniai.org` | Research prototype: auditable memory for AI agents | 📤 отправлено |
+| R6-4 | 31.10.2026 17:27 | Patrick J. McGovern Foundation | `communications@mcgovern.org` | Early research: traceable memory for AI agents in nonprofits | 📤 отправлено |
+| R6-5 | 31.10.2026 17:28 | Fondation Botnar | `info@fondationbotnar.org` | Research question: traceable AI-agent memory and young people's wellbeing | 📤 отправлено |
+| R6-6 | 31.10.2026 17:28 | ITU – AI for Good | `ai@itu.int` | Research prototype: traceable memory for AI agents | 📤 отправлено |
+| R6-7 | 31.10.2026 17:28 | Digital Public Goods Alliance | `hello@digitalpublicgoods.net` | Question: is an early open-source AI-memory prototype a fit for the DPG registry? | 📤 отправлено |
+
+## 💬 Ответы (дополнение 31.10.2026)
+
+- 31.10.2026 13:09 — Moldova Matters (`david@moldovamatters.md`): вежливый **отказ** («going to pass on this one»). Не отвечали.
