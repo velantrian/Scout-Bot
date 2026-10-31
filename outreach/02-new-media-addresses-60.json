@@ -1,0 +1,636 @@
+{
+ "outlets": [
+  {
+   "outlet": "Tech Policy Press",
+   "country": "US/global",
+   "language": "EN",
+   "email": "contributions@techpolicy.press",
+   "status": "VERIFIED",
+   "source_url": "https://www.techpolicy.press/contributor-guidelines/",
+   "notes": "Политика ИИ/AI governance — лучший тематический фит. Только готовый текст 800–1500 слов, эксклюзив; не принимают тексты, «substantially» написанные ИИ, использование ИИ раскрыть обязательно; био + фото (реальное имя)."
+  },
+  {
+   "outlet": "The Hill (Opinion)",
+   "country": "US",
+   "language": "EN",
+   "email": "opinion@thehill.com",
+   "status": "VERIFIED",
+   "source_url": "https://support.thehill.com/support/solutions/articles/39000015465-where-can-i-submit-an-op-ed-to-the-hill-",
+   "notes": "Op-ed принимают (готовый текст). Правила ИИ на странице не указаны. Очень высокая конкуренция."
+  },
+  {
+   "outlet": "KrASIA",
+   "country": "SG/Asia",
+   "language": "EN",
+   "email": "hello@kr-asia.com",
+   "status": "VERIFIED",
+   "source_url": "https://kr-asia.com/about-us",
+   "notes": "Принимают story leads/pitches. Op-ed не заявлены явно. ИИ: не указано."
+  },
+  {
+   "outlet": "The Jakarta Post (Opinion)",
+   "country": "ID",
+   "language": "EN",
+   "email": "opinion@thejakartapost.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.thejakartapost.com/contact-us",
+   "notes": "Отдельный ящик Opinion. ИИ/правила: не указаны; нужен готовый текст и реальное имя (стандарт)."
+  },
+  {
+   "outlet": "The Daily Star (Opinion)",
+   "country": "BD",
+   "language": "EN",
+   "email": "opinion@thedailystar.net",
+   "status": "VERIFIED",
+   "source_url": "https://www.thedailystar.net/contact-us",
+   "notes": "Отдельный ящик opinion. Правила ИИ не указаны."
+  },
+  {
+   "outlet": "Rappler (Opinion)",
+   "country": "PH",
+   "language": "EN",
+   "email": "opinion@rappler.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.rappler.com/about/contact-us",
+   "notes": "Контакт «Contributions» (также desk@rappler.com). У Rappler есть отдельная политика по генеративному ИИ — проверить перед подачей; готовый текст."
+  },
+  {
+   "outlet": "Silicon Republic",
+   "country": "IE",
+   "language": "EN",
+   "email": "editorial@siliconrepublic.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.siliconrepublic.com/contact",
+   "notes": "Сайт: «best way to pitch» — editorial@. Есть колонки экспертов. ИИ: не указано."
+  },
+  {
+   "outlet": "UKTN",
+   "country": "UK",
+   "language": "EN",
+   "email": "editor@uktech.news",
+   "status": "VERIFIED",
+   "source_url": "https://uktech.news/contact",
+   "notes": "Есть раздел Opinion. ИИ: не указано."
+  },
+  {
+   "outlet": "Startupticker.ch",
+   "country": "CH",
+   "language": "EN/FR/DE",
+   "email": "news@startupticker.ch",
+   "status": "VERIFIED",
+   "source_url": "https://www.startupticker.ch/en/contact",
+   "notes": "Швейцарская стартап-экосистема; есть внешние авторы (about). ИИ: не указано."
+  },
+  {
+   "outlet": "CIO Africa",
+   "country": "KE",
+   "language": "EN",
+   "email": "editorial@cioafrica.co",
+   "status": "VERIFIED",
+   "source_url": "https://cioafrica.co/contact-us/",
+   "notes": "Редакционный ящик; колонки CIO/экспертов. ИИ: не указано."
+  },
+  {
+   "outlet": "TechFinancials",
+   "country": "ZA",
+   "language": "EN",
+   "email": "editor@techfinancials.co.za",
+   "status": "VERIFIED",
+   "source_url": "https://techfinancials.co.za/contact/",
+   "notes": "Редактор; публикуют opinion-колонки. ИИ: не указано."
+  },
+  {
+   "outlet": "iAfrikan",
+   "country": "ZA",
+   "language": "EN",
+   "email": "hello@iafrikan.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.iafrikan.com/contact/",
+   "notes": "Африканский тех/ИИ. Общий ящик."
+  },
+  {
+   "outlet": "The New Times",
+   "country": "RW",
+   "language": "EN",
+   "email": "editor@newtimesrwanda.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.newtimes.co.rw/contact",
+   "notes": "Национальная газета, есть раздел Opinion. Реальное имя (стандарт)."
+  },
+  {
+   "outlet": "Maddyness (tribune)",
+   "country": "FR",
+   "language": "FR",
+   "email": "tribune@maddyness.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.maddyness.com/2019/10/02/soumettre-sujet-maddyness/",
+   "notes": "Трибуны 600–900 слов, не промо, нужен портрет; через форму предлагают необязательный взнос €100 — email-вариант бесплатно. Также redaction@maddyness.com (FAQ)."
+  },
+  {
+   "outlet": "FrenchWeb",
+   "country": "FR",
+   "language": "FR",
+   "email": "redaction@frenchweb.fr",
+   "status": "VERIFIED",
+   "source_url": "https://www.frenchweb.fr/contact",
+   "notes": "Есть рубрика тribunes/«Expert». ИИ: не указано."
+  },
+  {
+   "outlet": "ActuIA",
+   "country": "FR",
+   "language": "FR",
+   "email": "contact@actuia.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.actuia.com/contact/",
+   "notes": "Профильное ИИ-медиа (в т.ч. регулирование). Общий ящик."
+  },
+  {
+   "outlet": "Alliancy",
+   "country": "FR",
+   "language": "FR",
+   "email": "redaction@alliancy.fr",
+   "status": "VERIFIED",
+   "source_url": "https://www.alliancy.fr/contact",
+   "notes": "Цифровая трансформация, есть тексты экспертов."
+  },
+  {
+   "outlet": "InformatiqueNews",
+   "country": "FR",
+   "language": "FR",
+   "email": "contact@informatiquenews.fr",
+   "status": "VERIFIED",
+   "source_url": "https://www.informatiquenews.fr/contact",
+   "notes": "Есть раздел Tribunes."
+  },
+  {
+   "outlet": "Global Security Mag",
+   "country": "FR",
+   "language": "FR/EN",
+   "email": "vj@globalsecuritymag.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.globalsecuritymag.fr/",
+   "notes": "Кибербезопасность; публикуют экспертные тексты (ящик главреда)."
+  },
+  {
+   "outlet": "Le Devoir (Idées / Libre opinion)",
+   "country": "CA",
+   "language": "FR",
+   "email": "opinion@ledevoir.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.ledevoir.com/centre-aide/redaction-et-editorial",
+   "notes": "Готовый текст ≤5000 знаков, желательно эксклюзив; имя и контакты автора."
+  },
+  {
+   "outlet": "Le Soir (Cartes blanches)",
+   "country": "BE",
+   "language": "FR",
+   "email": "forum@lesoir.be",
+   "status": "UNVERIFIED",
+   "source_url": "https://www.lesoir.be/art/envoyez-un-courrier-ou-une-carte-blanche-au-service-for_t-20060329-0050NH.html",
+   "notes": "Страница блокирует curl — адрес виден только в выдержке поиска с этой страницы. Готовый текст ≤5000 знаков, чёткая позиция."
+  },
+  {
+   "outlet": "Le Temps",
+   "country": "CH",
+   "language": "FR",
+   "email": "info@letemps.ch",
+   "status": "VERIFIED",
+   "source_url": "https://www.letemps.ch/contact",
+   "notes": "Публикуют спонтанные мнения (Opinions); общий ящик."
+  },
+  {
+   "outlet": "Heidi.news",
+   "country": "CH",
+   "language": "FR",
+   "email": "propositions@heidi.news",
+   "status": "VERIFIED",
+   "source_url": "https://www.heidi.news/auteurs",
+   "notes": "Ящик для предложений авторов (наука/тех/здоровье)."
+  },
+  {
+   "outlet": "ICTjournal",
+   "country": "CH",
+   "language": "FR",
+   "email": "redaction@ictjournal.ch",
+   "status": "VERIFIED",
+   "source_url": "https://www.ictjournal.ch/impressum",
+   "notes": "ИТ-журнал Романдии."
+  },
+  {
+   "outlet": "CIO Mag",
+   "country": "Франкоязычная Африка",
+   "language": "FR",
+   "email": "info@cio-mag.com",
+   "status": "VERIFIED",
+   "source_url": "https://cio-mag.com/contact/",
+   "notes": "Цифровая Африка; есть tribunes. Адрес редактора mohamadou.diallo@cio-mag.com — только из PDF (UNVERIFIED)."
+  },
+  {
+   "outlet": "Financial Afrik (Tribune)",
+   "country": "SN/Africa",
+   "language": "FR",
+   "email": "redaction@financialafrik.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.financialafrik.com/",
+   "notes": "Есть рубрика Tribune, приглашают авторов."
+  },
+  {
+   "outlet": "Digital Business Africa",
+   "country": "CM",
+   "language": "FR",
+   "email": "contact@digitalbusiness.africa",
+   "status": "VERIFIED",
+   "source_url": "https://www.digitalbusiness.africa/contact/",
+   "notes": "Цифровая экономика Африки; общий ящик."
+  },
+  {
+   "outlet": "Socialnetlink",
+   "country": "SN",
+   "language": "FR",
+   "email": "contact@socialnetlink.org",
+   "status": "VERIFIED",
+   "source_url": "https://www.socialnetlink.org/contact/",
+   "notes": "Тех-медиа Сенегала."
+  },
+  {
+   "outlet": "SeneNews",
+   "country": "SN",
+   "language": "FR",
+   "email": "redaction@senenews.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.senenews.com/contact",
+   "notes": "Общая редакция; есть рубрика contributions."
+  },
+  {
+   "outlet": "Togo First",
+   "country": "TG",
+   "language": "FR",
+   "email": "contact@togofirst.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.togofirst.com/fr/contact",
+   "notes": "Экономика/цифра Того (группа Ecofin)."
+  },
+  {
+   "outlet": "Burkina24",
+   "country": "BF",
+   "language": "FR",
+   "email": "redchef@burkina24.com",
+   "status": "VERIFIED",
+   "source_url": "https://burkina24.com/contact",
+   "notes": "Главред; также info@burkina24.com. Есть «Tribune»."
+  },
+  {
+   "outlet": "African Manager",
+   "country": "TN",
+   "language": "FR",
+   "email": "contact@africanmanager.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.africanmanager.com/contact/",
+   "notes": "Деловое медиа Туниса; общий ящик."
+  },
+  {
+   "outlet": "El País (Opinión / Tribunas)",
+   "country": "ES",
+   "language": "ES",
+   "email": "opinion@elpais.es",
+   "status": "VERIFIED",
+   "source_url": "https://elpais.com/estaticos/contacte/",
+   "notes": "Отдел Opinión. Готовый текст, реальное имя/должность (стандарт); правила ИИ не указаны."
+  },
+  {
+   "outlet": "La Vanguardia (Opinión)",
+   "country": "ES",
+   "language": "ES",
+   "email": "opinion@lavanguardia.es",
+   "status": "VERIFIED",
+   "source_url": "https://www.lavanguardia.com/contacto",
+   "notes": "Отдел «Opinión»."
+  },
+  {
+   "outlet": "Wwwhat's new",
+   "country": "ES",
+   "language": "ES",
+   "email": "contacto@wwwhatsnew.com",
+   "status": "VERIFIED",
+   "source_url": "https://wwwhatsnew.com/contacto/",
+   "notes": "Тех/ИИ-блог-медиа; также основатель diego@wwwhatsnew.com."
+  },
+  {
+   "outlet": "Byte TI",
+   "country": "ES",
+   "language": "ES",
+   "email": "nachosaez@mkm-pi.com",
+   "status": "VERIFIED",
+   "source_url": "https://revistabyte.es/acerca-de-nosotros/",
+   "notes": "Есть раздел opinión (ИТ-руководители). Личный ящик редактора."
+  },
+  {
+   "outlet": "CIPER (CIPER-Opinión)",
+   "country": "CL",
+   "language": "ES",
+   "email": "mavila@ciperchile.cl",
+   "status": "VERIFIED",
+   "source_url": "https://www.ciperchile.cl/enviar-columnas-y-cartas/",
+   "notes": "Колонки 650–1500 слов с источниками (готовый текст), редактор раздела."
+  },
+  {
+   "outlet": "Revista Neo",
+   "country": "LatAm",
+   "language": "ES",
+   "email": "info@revistaneo.com",
+   "status": "VERIFIED",
+   "source_url": "https://revistaneo.com/contacto",
+   "notes": "ИТ-бизнес LatAm."
+  },
+  {
+   "outlet": "Folha de S.Paulo (Tendências/Debates)",
+   "country": "BR",
+   "language": "PT",
+   "email": "debates@uol.com.br",
+   "status": "VERIFIED",
+   "source_url": "https://www1.folha.uol.com.br/falecomafolha/",
+   "notes": "Официальная op-ed рубрика. Готовый текст, реальное имя/должность. ИИ: не указано."
+  },
+  {
+   "outlet": "ECO",
+   "country": "PT",
+   "language": "PT",
+   "email": "eco@eco.pt",
+   "status": "VERIFIED",
+   "source_url": "https://eco.sapo.pt/contactos/",
+   "notes": "Экономика/тех; есть Opinião. Общий ящик."
+  },
+  {
+   "outlet": "Mobile Time",
+   "country": "BR",
+   "language": "PT",
+   "email": "redacao@mobiletime.com.br",
+   "status": "VERIFIED",
+   "source_url": "https://www.mobiletime.com.br/contato/",
+   "notes": "Мобайл/ИИ; принимают статьи экспертов."
+  },
+  {
+   "outlet": "Inforchannel",
+   "country": "BR",
+   "language": "PT",
+   "email": "redacao@inforchannel.com.br",
+   "status": "VERIFIED",
+   "source_url": "https://inforchannel.com.br/contato/",
+   "notes": "ИТ-канал; публикуют артигос."
+  },
+  {
+   "outlet": "Leak.pt",
+   "country": "PT",
+   "language": "PT",
+   "email": "geral@leak.pt",
+   "status": "VERIFIED",
+   "source_url": "https://leak.pt/contactos/",
+   "notes": "Тех-медиа; общий ящик."
+  },
+  {
+   "outlet": "Portugal Startup News",
+   "country": "PT",
+   "language": "EN/PT",
+   "email": "info@portugalstartupnews.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.portugalstartupnews.com/contact/",
+   "notes": "Стартап-экосистема Португалии."
+  },
+  {
+   "outlet": "Carta de Moçambique",
+   "country": "MZ",
+   "language": "PT",
+   "email": "carta@cartamz.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.cartamz.com/index.php/contactos",
+   "notes": "Общая редакция; есть opinião."
+  },
+  {
+   "outlet": "O País",
+   "country": "MZ",
+   "language": "PT",
+   "email": "opais@soico.co.mz",
+   "status": "VERIFIED",
+   "source_url": "https://opais.co.mz/contactos/",
+   "notes": "Общий ящик редакции."
+  },
+  {
+   "outlet": "Ведомости («Мнения»)",
+   "country": "RU",
+   "language": "RU",
+   "email": "news@vedomosti.ru",
+   "status": "VERIFIED",
+   "source_url": "https://www.vedomosti.ru/info/kak-otpravit-statyu-v-redaktsiyu",
+   "notes": "Готовый текст 3000–7000 знаков, оригинальный, без рекламы; нужны ФИО, должность, организация, телефон. ИИ: не указано."
+  },
+  {
+   "outlet": "Anti-Malware.ru",
+   "country": "RU",
+   "language": "RU/EN",
+   "email": "author@anti-malware.ru",
+   "status": "UNVERIFIED",
+   "source_url": "https://www.anti-malware.ru/send_article",
+   "notes": "Ищут авторов: статьи по ИБ до 16 000 знаков, RU/EN. Адрес на странице скрыт скриптом, виден в выдержке поиска."
+  },
+  {
+   "outlet": "Сноб",
+   "country": "RU",
+   "language": "RU",
+   "email": "snob@snob.ru",
+   "status": "VERIFIED",
+   "source_url": "https://snob.ru/contacts/",
+   "notes": "Колонки/блоги авторов; общий ящик."
+  },
+  {
+   "outlet": "РБК Тренды",
+   "country": "RU",
+   "language": "RU",
+   "email": "letters@rbc.ru",
+   "status": "VERIFIED",
+   "source_url": "https://trends.rbc.ru/trends/about",
+   "notes": "Есть колонки экспертов; общий ящик."
+  },
+  {
+   "outlet": "Maralles",
+   "country": "EE",
+   "language": "RU/EN/ET",
+   "email": "editorial@maralles.com",
+   "status": "VERIFIED",
+   "source_url": "https://maralles.com/ru/vyhodnye-dannye/",
+   "notes": "Принимают авторские материалы и колонки (условия использования)."
+  },
+  {
+   "outlet": "Rus.Postimees",
+   "country": "EE",
+   "language": "RU",
+   "email": "vene@postimees.ee",
+   "status": "VERIFIED",
+   "source_url": "https://rus.postimees.ee/contact",
+   "notes": "Русская редакция; есть «Мнение»."
+  },
+  {
+   "outlet": "Ulysmedia",
+   "country": "KZ",
+   "language": "RU/KZ",
+   "email": "info@ulysmedia.kz",
+   "status": "VERIFIED",
+   "source_url": "https://ulysmedia.kz/contacts/",
+   "notes": "Общий ящик."
+  },
+  {
+   "outlet": "LSM.kz",
+   "country": "KZ",
+   "language": "RU",
+   "email": "info@lsm.kz",
+   "status": "VERIFIED",
+   "source_url": "https://lsm.kz/contacts",
+   "notes": "Деловое медиа; есть мнения экспертов."
+  },
+  {
+   "outlet": "Astana Hub",
+   "country": "KZ",
+   "language": "RU/EN",
+   "email": "info@astanahub.com",
+   "status": "VERIFIED",
+   "source_url": "https://astanahub.com/",
+   "notes": "IT-хаб; блог-платформа для авторов."
+  },
+  {
+   "outlet": "Bizmedia.kz",
+   "country": "KZ",
+   "language": "RU",
+   "email": "sergey@bizmedia.kz",
+   "status": "VERIFIED",
+   "source_url": "https://bizmedia.kz/contacts",
+   "notes": "Деловой портал; ящики редакторов (также erlen@)."
+  },
+  {
+   "outlet": "Podrobno.uz",
+   "country": "UZ",
+   "language": "RU",
+   "email": "info@podrobno.uz",
+   "status": "VERIFIED",
+   "source_url": "https://podrobno.uz/contacts/",
+   "notes": "Предложения публикаций — info@ или @PodrobnoBot."
+  },
+  {
+   "outlet": "Akchabar",
+   "country": "KG",
+   "language": "RU",
+   "email": "info@akchabar.kg",
+   "status": "VERIFIED",
+   "source_url": "https://www.akchabar.kg/ru/contacts/",
+   "notes": "Экономика Кыргызстана."
+  },
+  {
+   "outlet": "News.am",
+   "country": "AM",
+   "language": "RU/EN/HY",
+   "email": "editor@news.am",
+   "status": "VERIFIED",
+   "source_url": "https://news.am/rus/contacts/",
+   "notes": "Редакция; op-ed не заявлены."
+  },
+  {
+   "outlet": "Hetq",
+   "country": "AM",
+   "language": "EN/HY",
+   "email": "info@hetq.am",
+   "status": "VERIFIED",
+   "source_url": "https://hetq.am/en/about",
+   "notes": "About упоминает op-eds."
+  }
+ ],
+ "bounce_replacements": [
+  {
+   "outlet": "The Gulf Magazine",
+   "bounced": "desk@thegulfmagazine.com",
+   "bounce_reason": "550 user not found",
+   "replacement": "hello@thegulfmagazine.com",
+   "status": "VERIFIED",
+   "source_url": "https://thegulfmagazine.com/contact-us/",
+   "notes": "Тот же домен, почтовый сервер рабочий (Titan) — адрес hello@ указан на странице контактов."
+  },
+  {
+   "outlet": "AI in Asia",
+   "bounced": "hello@aiinasia.com",
+   "bounce_reason": "address not found",
+   "replacement": "— не найдено",
+   "status": null,
+   "source_url": "https://aiinasia.com/contribute",
+   "notes": "На всех страницах (contribute, editorial-requests, contact) только hello@ — он и отскочил. Замены нет."
+  },
+  {
+   "outlet": "DeshiAI",
+   "bounced": "contributors@deshiai.in",
+   "bounce_reason": "550 No Such User",
+   "replacement": "editorial@deshiai.in (+ contact@deshiai.in)",
+   "status": "VERIFIED",
+   "source_url": "https://deshiai.in/masthead-and-editorial-team/",
+   "notes": "Указаны на сайте, но тот же сервер ответил «No such user» на contributors@ — риск повтора."
+  },
+  {
+   "outlet": "Africa Digital News",
+   "bounced": "contact@africadigitalnews.me",
+   "bounce_reason": "550 user rejected",
+   "replacement": "— не найдено",
+   "status": null,
+   "source_url": "https://africadigitalnews.me/contact/",
+   "notes": "Сайт показывает только отскочивший адрес."
+  },
+  {
+   "outlet": "Max Portal (BR)",
+   "bounced": "redacao@maxportal.com.br",
+   "bounce_reason": "домен не найден",
+   "replacement": "— не найдено",
+   "status": null,
+   "source_url": "https://maxportal.com.br/contato",
+   "notes": "Почтовый домен не резолвится, других адресов на сайте нет."
+  },
+  {
+   "outlet": "Nova Gazeta (AO)",
+   "bounced": "redacao@novagazeta.co.ao",
+   "bounce_reason": "заблокировано",
+   "replacement": "novagazetadirector@gmail.com",
+   "status": "VERIFIED",
+   "source_url": "https://novagazeta.co.ao/contactos",
+   "notes": "Адрес директора на странице контактов (Gmail — обойдёт сломанный сервер домена)."
+  },
+  {
+   "outlet": "iProfesional (AR)",
+   "bounced": "catchall@iprofesional.com",
+   "bounce_reason": "blocked by admin",
+   "replacement": "contacto@iprofesional.com уже отправлялся без отскока; альтернатива info@iprofesional.com",
+   "status": "VERIFIED",
+   "source_url": "https://www.iprofesional.com/contacto",
+   "notes": "Повторно не нужно; при желании — info@."
+  },
+  {
+   "outlet": "Bahrain Economy",
+   "bounced": "hello@bahraineconomy.com",
+   "bounce_reason": "сервер настроен некорректно",
+   "replacement": "— не найдено",
+   "status": null,
+   "source_url": "https://bahraineconomy.com/contact-us-2/",
+   "notes": "На сайте только hello@."
+  },
+  {
+   "outlet": "Technologue (IN)",
+   "bounced": "editorials@technologue.in",
+   "bounce_reason": "сервер настроен некорректно",
+   "replacement": "crm@kivaa.in",
+   "status": "VERIFIED",
+   "source_url": "https://technologue.in/contact",
+   "notes": "Ящик материнской компании Kivaa (рабочий MX). Низкий приоритет: не редакционный."
+  },
+  {
+   "outlet": "Tanzania Business Journal",
+   "bounced": "editorial@tanzaniabusinessjournal.com",
+   "bounce_reason": "сервер настроен некорректно",
+   "replacement": "newsroom@tanzaniabusinessjournal.com (+ info@)",
+   "status": "VERIFIED",
+   "source_url": "https://tanzaniabusinessjournal.com/",
+   "notes": "Тот же домен/пересылка — вероятен повторный отскок."
+  }
+ ]
+}
