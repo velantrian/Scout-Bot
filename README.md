@@ -2,6 +2,8 @@
 
 # Scout Bot 🤖
 
+> 📋 **Start here:** [`BOARD.md`](BOARD.md) is the task board for the bot: what is done, what to do next, what not to touch (in Russian).
+
 🔭 **Scout Bot** is a scout bot that scans **public** GitHub repositories, picks projects close to Velantrim's interests (🧠 AI memory, 🕸️ knowledge graphs, 💻 local-first, 🌍 open source), and prepares collaboration proposals.
 
 > ⚠️ Scout Bot never sends anything on its own. Every proposal goes out only after the user's explicit "yes" to the specific text.
