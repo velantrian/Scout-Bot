@@ -11,6 +11,7 @@ Legend: ⭐ = best fit. 🗂️ = funds only through calls or portals, so a lett
 | 2 | ⭐ ITU – AI for Good | Global (Geneva) | UN agency platform (ITU is not on the covered list) | Main global platform for AI applied to the SDGs: health, climate, education. Runs a summit and an Innovation Factory. | https://aiforgood.itu.int (200) |
 | 3 | ⭐ Fondation Botnar | Switzerland / global | Foundation | Funds AI and digital tools for the health and wellbeing of young people in cities. Matches health and child-rearing. 🗂️ mainly calls and partners | https://www.fondationbotnar.org (200) |
 | 4 | ⭐ Patrick J. McGovern Foundation | USA / global | Foundation | Explicit focus on "AI and data for good" and on capacity-building for nonprofits. | https://www.mcgovern.org (200) |
+| 5 | ⭐ NLnet Foundation (NGI Zero) | Netherlands / EU | Foundation (open source funding) | Funds small open-source projects for an open internet; fits the open Titan code. 🗂️ open calls only. ⚠️ УЖЕ ПОДАВАЛИ ПРОЕКТ НА ФИНАНСИРОВАНИЕ, ПОЛУЧЕН ОТКАЗ (на финансирование, не на сотрудничество и не на публикацию статьи). | https://nlnet.nl (200) |
 | 6 | ⭐ Wadhwani AI | India | Non-profit AI institute | Builds AI for public health, agriculture and education in the Global South. Strong topic fit (health, nutrition, soil). | https://www.wadhwaniai.org (200) |
 | 7 | ⭐ Community Jameel (Jameel Clinic, J-WAFS, J-PAL) | Saudi Arabia / UK / global | Philanthropy and research network | Supports AI for health, water, food and climate science. Covers 4 of the user's topics. | https://www.communityjameel.org (200) |
 | 8 | ⭐ Nesta | UK | Innovation foundation | Missions on early years (children), healthy life and sustainable future. Works with AI for public good. | https://www.nesta.org.uk (200) |
@@ -76,14 +77,16 @@ Legend: ⭐ = best fit. 🗂️ = funds only through calls or portals, so a lett
 
 Not included because the site could not be verified (fetch blocked or timed out): MBZUAI (UAE), Asian Development Bank. Can be rechecked through the browser.
 
-## ⭐ Best fits (7)
+## ⭐ Best fits (8)
+
 1. Digital Public Goods Alliance: open source plus SDGs, the most direct route for Titan.
 2. ITU AI for Good: global "AI for the SDGs" platform.
 3. Patrick J. McGovern Foundation: "AI for good", nonprofit focus.
 4. Fondation Botnar: AI for health and children (🗂️ calls).
-5. Wadhwani AI: AI for health and agriculture in the Global South.
-6. Community Jameel: AI for health, water, food, climate.
-7. Nesta: early years, healthy life, AI for public good.
+5. NLnet / NGI Zero: small grants for open source (an application, not a letter). ⚠️ УЖЕ ПОДАВАЛИ ПРОЕКТ НА ФИНАНСИРОВАНИЕ, ПОЛУЧЕН ОТКАЗ (на финансирование, не на сотрудничество и не на публикацию статьи).
+6. Wadhwani AI: AI for health and agriculture in the Global South.
+7. Community Jameel: AI for health, water, food, climate.
+8. Nesta: early years, healthy life, AI for public good.
 
 ## Honest caveats
 - The project has no users and no external audit. Most large foundations (🗂️) fund through calls, so a cold letter rarely brings a response. The realistic goal of a letter is to ask who the right contact for the topic is.
