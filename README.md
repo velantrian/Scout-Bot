@@ -1,47 +1,53 @@
+<p align="center">
+  <a href="README.md"><img src="assets/lang-en.svg" alt="English" height="60"></a>
+  &nbsp;&nbsp;
+  <a href="README.ru.md"><img src="assets/lang-ru.svg" alt="Русский" height="46"></a>
+</p>
+
 # Scout Bot 🤖
 
-🔭 **Scout Bot** — бот-разведчик, который сканирует **публичные** репозитории GitHub, отбирает проекты, близкие интересам Velantrim (🧠 ИИ-память, 🕸️ графы знаний, 💻 local-first, 🌍 open source), и готовит предложения о сотрудничестве.
+🔭 **Scout Bot** is a scout bot that scans **public** GitHub repositories, picks projects close to Velantrim's interests (🧠 AI memory, 🕸️ knowledge graphs, 💻 local-first, 🌍 open source), and prepares collaboration proposals.
 
-> ⚠️ Scout Bot ничего не отправляет сам. Каждое предложение уходит только после явного «да» пользователя на конкретный текст.
+> ⚠️ Scout Bot never sends anything on its own. Every proposal goes out only after the user's explicit "yes" to the specific text.
 
-## 📁 Структура репозитория
+## 📁 Repository structure
 
 ```
 scout-bot/
-├── scanner/     # 🔎 чтение публичного GitHub, только чтение
-├── filters/     # 🧹 фильтры отбора и оценка
-├── templates/   # 📝 шаблоны карточки утверждения и сообщения
-├── consent/     # 🚦 механизм явного подтверждения, журнал, список отказов
-└── config/      # ⚙️ веса, лимиты, темы; без токенов
+├── scanner/     # 🔎 reads public GitHub, read-only
+├── filters/     # 🧹 selection filters and scoring
+├── templates/   # 📝 approval card and message templates
+├── consent/     # 🚦 explicit confirmation mechanism, log, opt-out list
+└── config/      # ⚙️ weights, limits, topics; no tokens
 ```
 
-## 🛠️ Как это работает
+## 🛠️ How it works
 
-1. 🔎 **Поиск** — находим публичные репозитории по темам интересов.
-2. 🧹 **Фильтры** — отсеиваем неподходящие (лицензия, архив, форк, пометка «не писать», уже контактировали, список отказов).
-3. 📊 **Оценка** — ранжируем оставшиеся по релевантности и активности.
-4. 📂 **Досье** — собираем факты о проекте, каждый со ссылкой на источник.
-5. ✍️ **Черновик** — готовим карточку «Что найдено / Что предлагаем» и текст сообщения.
-6. ✅ **Утверждение пользователем** — пользователь читает конкретный текст и явно говорит «да» или «нет».
-7. 📤 **Отправка самим пользователем** — сообщение отправляет пользователь, не бот.
-8. 🗃️ **Учёт ответов и отказов** — фиксируем результат; отказ вносится в список отказов.
+1. 🔎 **Search** — find public repositories on topics of interest.
+2. 🧹 **Filters** — drop unsuitable ones (license, archived, fork, "do not contact" note, already contacted, opt-out list).
+3. 📊 **Scoring** — rank the rest by relevance and activity.
+4. 📂 **Dossier** — collect facts about the project, each with a link to its source.
+5. ✍️ **Draft** — prepare a "What we found / What we propose" card and the message text.
+6. ✅ **User approval** — the user reads the specific text and explicitly says "yes" or "no".
+7. 📤 **Sending by the user** — the user sends the message, not the bot.
+8. 🗃️ **Tracking replies and opt-outs** — record the outcome; an opt-out goes onto the opt-out list.
 
-## 🚦 Принцип явного подтверждения
+## 🚦 Explicit confirmation principle
 
-- ✅ Каждое предложение уходит только после явного «да» пользователя на конкретный текст.
-- 🚫 Нет автосогласия.
-- 🚫 Нет пакетного одобрения.
-- ✏️ Правка текста = новое одобрение.
-- ⏳ Одобрение действует 7 дней.
-- 🔒 У бота нет права отправки.
-- 🛑 Отказы соблюдаются навсегда.
-- 📭 Email из коммитов и профилей не собирается; сначала Issues или Discussions проекта.
+- ✅ Every proposal goes out only after the user's explicit "yes" to the specific text.
+- 🚫 No auto-consent.
+- 🚫 No batch approval.
+- ✏️ Any edit to the text = a new approval.
+- ⏳ An approval is valid for 7 days.
+- 🔒 The bot has no permission to send.
+- 🛑 Opt-outs are respected forever.
+- 📭 No emails are harvested from commits or profiles; project Issues or Discussions come first.
 
-## 📌 Статус
+## 📌 Status
 
-🚧 **В разработке** — дизайн, реализация не начата.
+🚧 **In development** — design stage, implementation not started.
 
 - RESEARCH ≠ IMPLEMENTATION
 - IMPLEMENTED ≠ ACTIVATED
 
-Описанное выше — проектные принципы, а не работающие функции.
+Everything above describes design principles, not working features.
