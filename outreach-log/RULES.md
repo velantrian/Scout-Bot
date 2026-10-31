@@ -38,11 +38,11 @@
 ## 🤖 Политики изданий по ИИ-тексту
 | Категория | Издания |
 |---|---|
-| 🚫 ИИ-текст запрещён (питч не шлём или пишет сам Руслан) | Executive.ru, Rasmal, Life in Armenia, Times of Central Asia, RB.ru, Raseef22, SPEKA, DOU; также freeCodeCamp, Techpoint Africa |
+| 🚫 ИИ-текст запрещён (питч не шлём или пишет сам Руслан) | Executive.ru, Rasmal, Life in Armenia, Times of Central Asia, RB.ru, Raseef22, SPEKA, DOU; также freeCodeCamp, Techpoint Africa, Habr (допускает лишь «небольшой процент» в больших технических статьях) |
 | ✍️ Сопроводительное письмо должен написать человек | Taipei Times |
 | 🏷️ Использование ИИ нужно раскрыть | Kickstarter, Medium, Arab News, Morocco World News, DeshiAI, The Foresight, BETO |
 | 🪪 Только настоящее имя (подпись «Руслан Гагиев») | Storm Media, Max Portal, E1.ru, NGS (сеть Шкулёва) |
-| ⚠️ ИИ только как помощник | Т—Ж, e27, TNGlobal, CEVIU, Habr, Impacto TIC |
+| ⚠️ ИИ только как помощник | Т—Ж, e27, TNGlobal, CEVIU, Impacto TIC |
 
 Express Tribune Blogs и Analytics Vidhya запрещают ИИ-текст. В раунде 1 им ушли только письма-вопросы. В письме Analytics Vidhya (проверено) прямо сказано, что статью Руслан напишет сам.
 
