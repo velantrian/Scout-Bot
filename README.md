@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="README.md"><img src="assets/lang-en.svg" alt="English" height="60"></a>
-  &nbsp;&nbsp;
-  <a href="README.ru.md"><img src="assets/lang-ru.svg" alt="Русский" height="46"></a>
-</p>
+<p align="center"><a href="README.md"><img src="assets/lang-en-btn-active.svg" alt="English" width="400"></a><a href="README.ru.md"><img src="assets/lang-ru-btn.svg" alt="Русский" width="400"></a></p>
 
 # Scout Bot 🤖
 
