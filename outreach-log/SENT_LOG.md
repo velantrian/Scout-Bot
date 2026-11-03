@@ -200,3 +200,13 @@
 | Дата | Издание | Адрес | Событие | Статус |
 |---|---|---|---|---|
 | 03.11.2026 11:32 | Morocco World News | `contact@mwn.ma` | Ответ: публикация guest post только платно — $550 со ссылкой на сайт | ❌ отказ — Велан решил не платить; ответ в MWN не отправлялся |
+
+### Питчи колонок по обзору форумов (03.11.2026, с velantrim@gmail.com)
+
+| # | Дата | Издание | Адрес | Тема | Статус |
+|---|---|---|---|---|---|
+| P1 | 03.11.2026 14:48 | Towncrier Africa | `editorialdesk@towncrierafrica.com` | Article Submission – Should AI Tools Used in Africa Keep Memories We Can Check? | 📤 отправлено (EN, ~800 слов, пометка об ИИ, подпись «Velan, Hamburg»; Send через карточку нажал Велан) |
+| P2 | 03.11.2026 14:48 | Euractiv (Opinion) | `opinions@euractiv.com` | Op-ed pitch: The AI Acts record-keeping rules should cover what agents remember | 📤 отправлено (EN, 700–800 слов; адрес из выдачи поиска, страница правил 404) |
+| P3 | 03.11.2026 14:48 | Asia Times | `shawn.crispin@asiatimes.com` | Pitch op-ed, unpaid: What Asias AI boom forgets about machine memory | 📤 отправлено (EN, ~800 слов, без гонорара) |
+
+Не отправлено: OC Media (только Google-форма, ждёт решения Велана), The Diplomat (только форма и запрет ИИ-текстов — рекомендовано пропустить).
