@@ -271,3 +271,18 @@ This text was prepared with AI as a tool and reviewed by me.
 
 Velan, Hamburg
 ```
+
+## Перепроверка адресов 6–15 (04.11.2026, только официальные сайты)
+
+| # | Издание | Старый адрес | Проверенный адрес / страница | Совпадает | Способ связи / примечание |
+|---|---|---|---|---|---|
+| 6 | Lowy Interpreter | interpreter@lowyinstitute.org | interpreter@lowyinstitute.org — https://www.lowyinstitute.org/write-for-the-interpreter | ✅ | Word-вложение, ≤850 слов, ИИ только для правки/ресёрча |
+| 7 | Daily Maverick | letters@dailymaverick.co.za | letters@dailymaverick.co.za — https://www.dailymaverick.co.za/contact-us/ («For editorial submissions (letters to editors, etc)») | ✅ | Отдельного адреса Opinionista не найдено; страница /opinionista-guidelines/ без адреса в тексте |
+| 8 | CIPER Chile | mavila@ciperchile.cl | нет почты на сайте (https://www.ciperchile.cl/contacto/) | ❌ не подтверждён | Форма на /contacto/; X: @ciper |
+| 9 | El Algoritmo | hola@elalgoritmo.io | сайт elalgoritmo.io не загрузился (пустой ответ) | ❓ | Не проверено — не использовать |
+| 10 | The Age | opinion@theage.com.au | opinion@theage.com.au — https://www.theage.com.au/contact-us | ✅ | |
+| 11 | Business Day (BusinessLIVE) | marrsd@businesslive.co.za | нет почты на https://www.businesslive.co.za/contact-us/ и /bd/opinion/ | ❌ не подтверждён | Не использовать до проверки |
+| 12 | Society & AI | submissions@societyandai.org | submissions@societyandai.org — https://societyandai.org/submit/ | ✅ | Тема «Guest Post — [Title]», черновик Google Doc/DOCX/PDF + био; X: @societyandai |
+| 13 | Internet Policy Review | editor@policyreview.info | editor@hiig.de — https://policyreview.info/contact | ❌ другой | Используйте editor@hiig.de |
+| 14 | Transformer | jamie@transformernews.ai | jamie@transformernews.ai — https://www.transformernews.ai/p/how-to-pitch-transformer | ✅ | Opinion editor Jamie Condliffe |
+| 15 | Voices on Central Asia | — | нет почты на /contact/, /submit/, /about/ | — | Почта не найдена |
