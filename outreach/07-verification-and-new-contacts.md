@@ -1,6 +1,6 @@
 # 07 — Verification of addresses and new org contacts (31.10.2026)
 
-Research only. **Nothing was sent, no Gmail drafts created, no web forms filled, nobody contacted.**
+During the address-research window **31.10.2026 ~14:10–14:40**: **research only; nothing sent, no Gmail drafts created, no web forms filled, nobody contacted**. **Later at 17:27–17:28, seven messages were sent by the owner** (see section 6 and `../outreach-log/SENT_LOG.md`). Do not confuse the research-only window with the later send event.
 Checked 31.10.2026, ~14:10–14:40 Berlin (CET, UTC+1), via curl / WebFetch of the official pages listed.
 
 ## 1. Top-8 organisations from `04-*` (NLnet, Hub71 excluded)
@@ -48,7 +48,7 @@ Totals (ministries, 16): ✅ 8 verified · ⚠️ 1 pattern-only · ❌ 1 not fo
 
 ## 3. Sent-folder dedupe (velantrim@gmail.com)
 
-- Sent folder read: 116 messages, 111 unique recipient addresses.
+- Historical snapshot **31.10 ~14:40**: Sent folder read: 116 messages, 111 unique recipient addresses. **Do not reuse these as current counts after later sends.**
 - Round-6 address set (02, 03, 05, 06 + new 04 addresses above): 239 unique addresses.
 - **Overlap: 10 addresses — all are the bounced round-4 addresses** that appear in 02 only in the "replacements" table. **No new duplicates** among round-6 targets. Domain-level overlap: only the same bounced outlets (+ gmail.com).
 
