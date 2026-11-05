@@ -4,21 +4,47 @@
 
 ## 1. Tech Policy Press
 - **Email:** contributions@techpolicy.press
-- **Verified:** ✅ verified (contributor-guidelines page)
-- **Note:** Wants a FULL DRAFT (800–1500 words) in a Google Doc, not a pitch; AI help allowed if disclosed. Text below = cover note.
-- **Subject:** Op-ed submission: Who audits what an AI agent remembers?
+- **Verified:** ✅ contributor guidelines: https://www.techpolicy.press/contributor-guidelines/ (checked 05.11.2026)
+- **Status:** ⛔ UNSENT / RESEARCH ONLY / NOT SUBMISSION-READY. **No completed original author-written article exists for TPP in this PR.**
+- **Required article:** a **completed, original, substantially human-written** article, typically **800–1,500 words**, in **Google Docs with editor access**. A 600–800-word proposal or topic-only pitch does **not** qualify.
+- **Cover email must contain:** a short overview of the completed draft; why the issue matters now and how it differs from existing TPP coverage; **author-verified exclusive submission**; **2–3-sentence bio and headshot**; relevant affiliations/funding/conflicts. Put credible **inline hyperlinks in the article, not footnotes**.
+- **AI rule:** TPP rejects contributions substantially/completely composed with generative AI. Disclose *which actual research, analysis or content elements* involved AI and ensure any AI-generated material used in the manuscript is identified to editors and checked. The author's own article must be genuinely authored by the author; do not claim review that did not happen.
+- **Exclusivity blocker:** Scout-Bot's `outreach-log/SENT_LOG.md` records a full ~1,000-word MWN guest post sent on 03.11.2026 at 07:34 **as exclusive to MWN**. A subsequent paid-publication proposal was declined, but there is **no verified release of the exclusive offer**. The existing RAEM/MWN [Drive draft](https://docs.google.com/document/d/1FB2XIzFOhLvmAyv6o5GLeUUHMZhBQFM8vO-9kmCRF6Y/edit) is **background comparison only**, not a TPP-ready text and not authorized for recycling.
+- **Research and human-authoring brief:** [10-tech-policy-press-author-research-brief.md](10-tech-policy-press-author-research-brief.md).
+- **Possible subject (only after completion/approval):** Submission: [author-approved headline] — accountable AI-agent memory
 
+**Cover email SKELETON — placeholders only; not an approved email and DO NOT SEND:**
+
+```text
+Dear Tech Policy Press editors,
+
+Please find my completed [actual word count: typically 800–1,500] word
+[analysis/perspective] article, "[author's actual title]":
+[Google Docs URL with editing access explicitly granted to the editors].
+
+[Author to write 2–3 factual sentences: main argument, why the issue
+is timely, and how it adds to/differs from named TPP coverage.]
+
+[INSERT ONLY AFTER AUTHOR CHECKS: I confirm that this submission is
+exclusive to Tech Policy Press and is not simultaneously under
+consideration elsewhere. Do not reuse the MWN article.]
+
+About the author: [2–3 fact-checked sentences, written or approved
+by the author, including relevant affiliation with Titan/Velantrim.]
+Headshot: [attach an author-approved image before submission].
+Relevant affiliation, funding and conflicts: [complete and verify].
+
+Use of AI: [accurately identify any AI-assisted research, source
+discovery, analysis, outline or drafting elements; highlight specific
+AI-generated material used in the submitted manuscript to editors;
+author verifies all substantive claims].
+[Author confirms the article is their own writing and checks the
+disclosure against the final manuscript before sending.]
+
+[Author's name, preferred contact details]
 ```
-Dear Editors,
 
-I would like to propose a 600–800-word column offering a regional view on verifiable AI-agent memory and AI governance. US/global policy angle: agent memory as an accountability gap. AI agents increasingly store and reuse information about people and tasks, yet it is rarely possible to check where a remembered item came from or whether it was changed. The piece would outline what governance could require — provenance, inspection, the right to have an agent forget — and where today's rules are silent. It would raise questions, not sell answers.
-
-Disclosure: I am the developer of Titan (github.com/velantrian/Velantrim-ExoCortex-Titan), an early-stage research prototype with no users, no audit and no validation — research, not fantasy. The column would not promote it or claim it solves anything; it would use it only as a concrete example of open questions.
-
-This text was prepared with AI as a tool and reviewed by me.
-
-Velan, Hamburg
-```
+**Release gate:** author-written finished article + sources/hyperlinks verified + clear human authorship/AI-use account + editorial differentiation + actual bio/headshot + conflict disclosure + confirmed exclusivity + author authorization to send. No Gmail draft, send, submission or merge is authorized by this research correction.
 
 ## 2. Fair Observer
 - **Email:** submissions@fairobserver.com
